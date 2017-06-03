@@ -1,3 +1,4 @@
-*.js linguist-language=javascript
-*.css linguist-language=javascript
-*.html lingist-language=javascript
+*.js linguist-language=swiper
+*.css linguist-language=swiper
+*.html lingist-language=swiper
+
