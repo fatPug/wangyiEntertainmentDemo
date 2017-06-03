@@ -1,4 +1,5 @@
-*.js linguist-language=swiper
-*.css linguist-language=swiper
-*.html lingist-language=swiper
+*.js linguist-language=css
+*.css linguist-language=css
+*.html lingist-language=css
+
 
